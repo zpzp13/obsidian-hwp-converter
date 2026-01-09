@@ -1,0 +1,13 @@
+/* HWP Converter Plugin Styles */
+
+/* Filename Input Styling */
+.hwp-filename-setting .setting-item-control input {
+    width: 180px !important;
+    text-align: right;
+}
+
+.hwp-filename-extension {
+    margin-left: 5px;
+    font-weight: bold;
+    color: var(--text-muted);
+}

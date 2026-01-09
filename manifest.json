@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-hwp-converter",
+	"name": "HWP Converter",
+	"version": "1.0.2",
+	"minAppVersion": "0.15.0",
+	"description": "Convert current note to HWP using Python and Hancom Office.",
+	"author": "Antigravity",
+	"authorUrl": "",
+	"isDesktopOnly": true
+}
